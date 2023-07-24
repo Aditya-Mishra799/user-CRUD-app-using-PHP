@@ -1,0 +1,1 @@
+<i class="fa fa-eye" id="password_eye_icon" onclick="showPassword(this.parentElement,this)"  style="color: gray; cursor: pointer;"></i>
